@@ -1,0 +1,19 @@
+.navigation{
+    color: blueviolet;
+    padding: 1px;
+    border-radius: 5px;
+
+}
+
+.nali{
+    display: flex;
+    padding: 1px;
+    border-radius: var(--radius);
+    justify-content: flex-start;
+}
+
+.footer{
+    padding: 5px;
+    border: 3px;
+    margin: auto;
+}
